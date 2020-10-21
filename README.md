@@ -6,6 +6,7 @@ Sistema construído para o Desafio 1 do [CNJ Inova](https://www.cnj-inova.com/),
 Utilizamos, como recorte dos dados, processos e unidades da Justiça Trabalhista.
 
 ## Descrição
+![Arquitetura Geral da Solução](Arquitetura_geral_da_solução.png)
 
 O sistema é um aglomerado de funções que executam funções distintas, mas dependentes. Podemos dividir o sistema em:
 1. Importação e tratamento de dados
