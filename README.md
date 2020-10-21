@@ -51,7 +51,7 @@ with open('drive/My Drive/Dados/Processos/processos-trt'+trtnum+'.pkl','rb') as 
 ```
 
 ### Replicação do Código
-![Fluxo de Dados](./Fluxo de dados.png)
+![Fluxo de Dados](Fluxo de dados.png)
 
 O nosso fluxo de trabalho, mostrado da imagem acima consistiu em modificar os arquivos, salvá-los no Google Drive e realizar a próxima etapa no fluxo do programa. Os códigos são modulares e podem ser modificados para que, mesmo rodando no Google Colab, os arquivos sejam lidos ou salvos de [outras fontes](https://colab.research.google.com/notebooks/io.ipynb).
 
